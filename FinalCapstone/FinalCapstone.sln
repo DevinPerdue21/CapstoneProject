@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalCapstone", "FinalCapstone\FinalCapstone.csproj", "{584E24D7-614C-4585-B7BB-ECFF44C207CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginTests", "LoginTests\LoginTests.csproj", "{67442C90-9F88-418A-AD4D-7F18776337C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{584E24D7-614C-4585-B7BB-ECFF44C207CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584E24D7-614C-4585-B7BB-ECFF44C207CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584E24D7-614C-4585-B7BB-ECFF44C207CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584E24D7-614C-4585-B7BB-ECFF44C207CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67442C90-9F88-418A-AD4D-7F18776337C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67442C90-9F88-418A-AD4D-7F18776337C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67442C90-9F88-418A-AD4D-7F18776337C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67442C90-9F88-418A-AD4D-7F18776337C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A266F16B-D639-4D90-9DE1-54B0052D130D}
+	EndGlobalSection
+EndGlobal
